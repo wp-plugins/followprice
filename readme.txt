@@ -1,5 +1,5 @@
 === Followprice ===
-Contributors: danielmoreira
+Contributors: followprice danielmoreira
 Tags: followprice, followprice button, price alert, availability alert, stock alert, follow price, follow item, follow availability, back to stock alert, wishlist, watchlist, lead generation, email lead capture, promotional codes, segmented retargeting, segmented campaigns, increase retention, increase returning visitors, increase margins, increase conversion rates, e-commerce, woocommerce, shop, facebook notifications, email alerts, free plugin, free widget
 Requires at least: 3.6
 Tested up to: 4.2.4
@@ -92,11 +92,14 @@ We’re always here to help. You can contact us at support@followprice.co.
 
 == Screenshots ==
 
-1. Followprice Dashboard
-2. Campaign results page
-3. Plugin settings page
-4. Followprice button example
+1. Followprice button example
+2. Followprice Dashboard
+3. Campaign results page
+4. Plugin settings page
 
 == Changelog ==
 
-1.1.0 - First release.
+= 1.1.0 =
+*Release Date - 11th August, 2015*
+
+* First release
