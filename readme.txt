@@ -1,5 +1,5 @@
 === Followprice ===
-Contributors: followprice danielmoreira
+Contributors: followprice, danielmoreira
 Tags: followprice, followprice button, price alert, availability alert, stock alert, follow price, follow item, follow availability, back to stock alert, wishlist, watchlist, lead generation, email lead capture, promotional codes, segmented retargeting, segmented campaigns, increase retention, increase returning visitors, increase margins, increase conversion rates, e-commerce, woocommerce, shop, facebook notifications, email alerts, free plugin, free widget
 Requires at least: 3.6
 Tested up to: 4.2.4
