@@ -2,7 +2,7 @@
 Contributors: followprice, danielmoreira
 Tags: followprice, followprice button, price alert, availability alert, stock alert, follow price, follow item, follow availability, back to stock alert, wishlist, watchlist, lead generation, email lead capture, promotional codes, segmented retargeting, segmented campaigns, increase retention, increase returning visitors, increase margins, increase conversion rates, e-commerce, woocommerce, shop, facebook notifications, email alerts, free plugin, free widget
 Requires at least: 3.6
-Tested up to: 4.2.4
+Tested up to: 4.3
 Stable tag: 1.1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -15,7 +15,7 @@ With the Followprice button your visitors will save your products into a univers
 
 Install the Followprice button now and start connecting with visitors offering them the possibility to follow your products’ price drops and availability changes with a universal solution they can also use in other stores. Generate more sales by turning your visitors into followers, engaging them with your store with our automatic notifications. Start now free!
 
-= How does it work? =
+= How it works: =
 
 1. Install and activate your Followprice plugin for Woocommerce.
 2. Your visitors click on the Followprice button to follow your products, adding them to their Followprice wishlist.

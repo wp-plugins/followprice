@@ -138,6 +138,9 @@ if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', g
         if (!isset($category)) {
             $category = "";
         }
+        if (!isset($subcategory)) {
+            $subcategory = "";
+        }
 
         // stock
         $stock = (int)$product_obj->stock;
