@@ -36,7 +36,7 @@ Install the Followprice button now and start connecting with visitors offering t
 * Limited to stores with less than 500.000 visits/mo.
 
 = Pro Features (paid) =
-* Manual Targeted Campaigns
+* Manually Targeted Campaigns
 * Trigger Automatic Campaigns
 * E-mail lead capture (followers opt-in to your mailing list) 
 * Button Design Customization
