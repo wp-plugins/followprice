@@ -33,7 +33,7 @@ Install the Followprice button now and start connecting with visitors offering t
 * UTM tags for Google Analytics integration
 * Supported button languages: English, Portuguese, Spanish
 * Email Support
-* Limited to stores with less than 500.000 visits/mo.
+* Limited to stores with less than 500.000 visits/month.
 
 = Pro Features (paid) =
 * Manually Targeted Campaigns
