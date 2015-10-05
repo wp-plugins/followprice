@@ -15,7 +15,7 @@ With the Followprice button your visitors will save your products into a univers
 
 Install the Followprice button now and start connecting with visitors offering them the possibility to follow your products’ price drops and availability changes with a universal solution they can also use in other stores. Generate more sales by turning your visitors into followers, engaging them with your store with our automatic notifications. Start now free!
 
-= How it works: =
+= How does it works? =
 
 1. Install and activate your Followprice plugin for Woocommerce.
 2. Your visitors click on the Followprice button to follow your products, adding them to their Followprice wishlist.
